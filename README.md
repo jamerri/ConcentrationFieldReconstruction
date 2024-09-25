@@ -1,5 +1,5 @@
 # ConcentrationFieldReconstruction (CFR)
-Code for "Enhanced method for concentration field reconstruction: Visualizing pollutant distribution in ventilated indoor environments", under reviewed by Journal of Clean Production.
+Code for "Enhanced method for concentration field reconstruction: Visualizing pollutant distribution in ventilated indoor environments", under review by the Journal of Clean Production.
 
 # Kernel DM+V
 
